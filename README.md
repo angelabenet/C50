@@ -22,9 +22,9 @@ FEEDBACK - O QUE MOSTRA NOSSO DESEMPENHO, ENQUANTO JOGADORES
 HISTORIA - DO JOGO OBJETIVO - OBJETIVO DO PC
 
 
-|       |ASCII                          |HTML                         |
+|       |NOME DO PERSONAGEM       |O QUE ELE FAZ?                   |
 |-|-------------------------------|-----------------------------|
-|1|          |'Isn't this fun?'            |
-|2|         |"Isn't this fun?"            |
-|3|          |-- is en-dash, --- is em-dash|
+|1|         |       |
+|2|         |        |
+|3|         |       |
 
